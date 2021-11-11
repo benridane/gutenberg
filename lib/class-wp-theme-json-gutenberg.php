@@ -122,7 +122,6 @@ class WP_Theme_JSON_Gutenberg {
 			'lineHeight'     => null,
 			'textDecoration' => null,
 			'textTransform'  => null,
-			'webfonts'       => null,
 		),
 	);
 
